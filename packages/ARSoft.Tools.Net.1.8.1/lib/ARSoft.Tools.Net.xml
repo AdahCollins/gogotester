@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml#version="1.0"?>
 <doc>
     <assembly>
         <name>ARSoft.Tools.Net</name>
@@ -5544,7 +5544,7 @@
         </member>
         <member name="F:ARSoft.Tools.Net.Dns.RecordClass.Any">
             <summary>
-              <para>Record class * (ANY)</para>
+              <para>Record class ! (ANY)</para>
               <para>
                 Defined in
                 <see cref="!:http://tools.ietf.org/html/rfc1035">RFC 1035</see>
@@ -5806,3 +5806,4 @@
         </member>
     </members>
 </doc>
+ 
